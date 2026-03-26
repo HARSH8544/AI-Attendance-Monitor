@@ -52,8 +52,5 @@ Bash
 python app.py
 Navigate to http://127.0.0.1:5000/ in your browser.
 
-📸 Screenshots
-(Add your project screenshots here to make it look even better!)
-
 👨‍💻 Developed By
 Harsh Singh BCA Student | Python & AI Enthusiast
